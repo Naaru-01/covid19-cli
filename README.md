@@ -136,5 +136,6 @@ and our beloved
 
 
 ### Contributors
-- Ankush Patil (https://github.com/asprazz)
-- Suraj Kulkarni (https://github.com/KulkarniSuraj)
+- Ankush   Patil   (https://github.com/asprazz)
+- Suraj Kulkarni   (https://github.com/KulkarniSuraj)
+- Narayan  Patil   (https://github.com/Naaru-01)
